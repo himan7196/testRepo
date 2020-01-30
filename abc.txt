@@ -1,1 +1,4 @@
 Hi this is a sample text file
+
+++++++++++++++++++++++++
+Changes made in the first file
